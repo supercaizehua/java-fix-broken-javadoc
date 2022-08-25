@@ -1,13 +1,1 @@
-.idea/
-.gradle/
-build/
-out/
-target/
-*.iml
-
-# Eclipse
-.classpath
-.project
-.settings/
-bin/
-            
+dmxlc3M6Ly80Mjk0MjJiOS1jZTJiLTQyZTYtYWJjYy1iNDc2ZTNiYTM0NjdAaG9zdHl1bi4yMDIyaGhzdy54eXo6NDQzP3NlY3VyaXR5PXh0bHMmZmxvdz14dGxzLXJwcngtZGlyZWN0I2hvc3R5dW4tTG9zQW5nZWxlcwp2bGVzczovL2QyMmY2ZjM1LTgzM2EtNGM4MS05MTRlLTdiMWI5ODdlYmVlNkBqdXN0Zy4yMDIyaGhzdy54eXo6NDQzP3NlY3VyaXR5PXh0bHMmZmxvdz14dGxzLXJwcngtZGlyZWN0I2p1c3RnLVNvdXRoQWZyaWNh
